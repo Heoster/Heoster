@@ -11,8 +11,7 @@ const Landing = ({ children }: PropsWithChildren) => {
             <h1>
               Harsh (Heoster)
             </h1>
-            <p className="landing-subtitle">Founder & Lead Developer at CODEEX-AI, Full-stack AI Engineer</p>
-            <p className="landing-hero-keywords">React · Next.js · TypeScript · Node.js · AI Orchestration · PWA · E-E-A-T</p>
+            <p className="landing-subtitle">Founder of CODEEX-AI, Full-stack Developer</p>
           </div>
           <div className="landing-info">
             <h3>A Full Stack</h3>
