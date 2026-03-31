@@ -6,13 +6,10 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Founder and Lead Developer at CODEEX-AI, with deep hands-on experience in
-          full-stack AI products and modern web architectures. Built a multi-model AI
-          platform (SOHAM) with global scale and robust uptime, while driving
-          integrations across Groq, Gemini, Hugging Face, and OpenAI.
-          <br />
-          Specialties: React, Next.js, TypeScript, Node.js, Firebase, PWA, CI/CD,
-          prompt engineering, and multi-provider AI orchestration.
+           Full-Stack AI Engineer & Founder of CODEEX-AI building intelligent, scalable web solutions. 
+          Specializing in AI platform development, modern web technologies (React, Next.js, TypeScript), 
+          and immersive 3D experiences. I transform complex ideas into high-performance, production-ready applications 
+          that drive business growth and user engagement.
         </p>
       </div>
     </div>

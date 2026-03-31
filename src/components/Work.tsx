@@ -6,24 +6,16 @@ import { MdArrowBack, MdArrowForward } from "react-icons/md";
 const projects = [
   {
     title: "CODEEX-AI",
-    category: "A ChatGPT Clone",
-    tools: "Angular, Next.js, NodeJS, firebase",
-    image: "/images/Slidox.png",
-    directAnswer: "CODEEX-AI is a full-stack AI platform built with Angular, Next.js, Node.js, and Firebase, featuring multi-provider AI integration and high-performance PWA capabilities for scalable chat applications.",
-    objective: "To create an accessible AI chat platform that democratizes advanced AI technology for users worldwide.",
-    approach: "Utilized Angular for frontend, Next.js for SSR, Node.js for backend APIs, Firebase for authentication and database, implementing multi-provider AI orchestration with intelligent routing.",
-    outcome: "Launched SOHAM with 26+ AI models, reaching 100+ countries, 1000+ daily users, and achieving 99.9% uptime.",
+    category: "AI chat platform",
+    tools: "Angular, Next.js, NestJS, Firebase",
+    image: "/images/Solidx.png",
   },
   {
     title: "CODEEX-FOCUS",
-    category: "A time management app",
-    tools: "Angular, Next.js, nodejs, firebase",
+    category: "Time Management App",
+    tools: "Angular, Next.js, NestJS, Firebase",
     image: "/images/radix.png",
-    directAnswer: "CODEEX-FOCUS is a productivity app developed using Angular, Next.js, Node.js, and Firebase, designed for efficient time management with PWA features and mobile-first responsive design.",
-    objective: "To develop a user-friendly time management tool that helps individuals optimize their productivity and focus.",
-    approach: "Built with Angular for dynamic UI, Next.js for performance, Node.js for server-side logic, Firebase for real-time data sync, focusing on PWA standards for offline functionality.",
-    outcome: "Delivered a high-performance app with seamless user experience, integrating advanced features for task tracking and productivity enhancement.",
-  },
+  }
 
 ];
 
@@ -99,13 +91,6 @@ const Work = () => {
                         <p className="carousel-category">
                           {project.category}
                         </p>
-                        <p className="carousel-direct-answer">{project.directAnswer}</p>
-                        <h5>Objective</h5>
-                        <p>{project.objective}</p>
-                        <h5>Approach</h5>
-                        <p>{project.approach}</p>
-                        <h5>Outcome</h5>
-                        <p>{project.outcome}</p>
                         <div className="carousel-tools">
                           <span className="tools-label">Tools & Features</span>
                           <p>{project.tools}</p>
@@ -113,7 +98,7 @@ const Work = () => {
                       </div>
                     </div>
                     <div className="carousel-image-wrapper">
-                      <WorkImage image={project.image} alt={`${project.title} - ${project.category} built with ${project.tools}, showcasing full-stack AI development and PWA features`} />
+                      <WorkImage image={project.image} alt={project.title} />
                     </div>
                   </div>
                 </div>
