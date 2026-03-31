@@ -55,7 +55,7 @@ Tools:          Git, Docker, Vercel, Linux, VS Code
 
 ## 🌟 Featured Projects
 
-- **[Harsh Portfolio](https://github.com/your-username/harsh-portfolio)** - Interactive 3D portfolio with GSAP animations
+- **[Harsh Portfolio](https://heoster.vercel.app)** - Interactive 3D portfolio with GSAP animations
 - **SOHAM AI Platform** - Multi-provider AI orchestration with 26+ models
 - **CODEEX-AI Solutions** - Custom AI integrations & smart applications
 
@@ -65,9 +65,9 @@ Tools:          Git, Docker, Vercel, Linux, VS Code
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Heoster&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Heoster&layout=compact&theme=dark)
 
 </div>
 
@@ -81,15 +81,6 @@ Tools:          Git, Docker, Vercel, Linux, VS Code
 ✅ **3D Web Experiences** - Interactive & immersive interfaces  
 ✅ **Performance Optimization** - Speed & SEO improvements  
 ✅ **Technical Consulting** - Guidance on architecture & best practices  
-
----
-
-## 📚 Currently Learning
-
-
-- Advanced LLM fine-tuning techniques
-- WebGL optimization for 3D web applications
-- Scalable AI system architecture
 
 ---
 
@@ -117,32 +108,5 @@ I'm always open to exciting opportunities, collaborations, and discussions about
 - 🎯 Goal: Build products that solve real problems with AI
 
 ---
-
-<div align="center">
-
-### Made with ❤️ by Harsh Heoster
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=your-username.your-username)
-
-</div>
-
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-```
-
-### ⚠️ Important Note
-This project uses GSAP Club plugins for advanced animations. The trial versions are included for development, but you'll need a GSAP Club membership for production hosting. Learn more at [gsap.com](https://gsap.com/).
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE). Feel free to use it as inspiration for your own portfolio!
-
----
-
 *Built with ❤️ in Khatauli, India*  
 *Last updated: March 2026*
