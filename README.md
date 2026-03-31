@@ -41,7 +41,7 @@ Currently building **CODEEX-AI Solutions** and developing intelligent platforms 
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech SKILLS 
 
 ```
 Languages:      JavaScript, TypeScript, Python
@@ -61,17 +61,6 @@ Tools:          Git, Docker, Vercel, Linux, VS Code
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Heoster&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Heoster&layout=compact&theme=dark)
-
-</div>
-
----
 
 ## 🎯 Services & Expertise
 
