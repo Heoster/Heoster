@@ -1,103 +1,129 @@
-# 👋 Hello, I'm Harsh Heoster
+# 👋 Hi, I'm Harsh Heoster
 
-**Freelance Full-Stack AI Engineer & Founder of CODEEX-AI**  
-*Based in Khatauli, Uttar Pradesh, India*
+<div align="center">
 
-Welcome to my digital portfolio! This is where I showcase my journey in building innovative AI-powered web applications and platforms. As a passionate developer, I specialize in creating seamless user experiences that blend cutting-edge AI technology with beautiful, responsive web design.
+**Full-Stack AI Engineer | Founder of CODEEX-AI | Building the Future with AI & Web Technologies**
+
+[![GitHub Followers](https://img.shields.io/github/followers/your-username?style=social)](https://github.com/your-username)
+[![Twitter Follow](https://img.shields.io/twitter/follow/The_Heoster_?style=social)](https://twitter.com/The_Heoster_)
+
+</div>
 
 ---
 
-## 🚀 What I Do
+## 🚀 About Me
 
-### 🤖 AI Platform Development
-- **SOHAM AI Platform**: Multi-provider AI orchestration with 26+ models
-- **CODEEX-AI Solutions**: Custom AI integrations using Groq, Gemini, Hugging Face, and OpenAI
-- **AI Education Platforms**: Making AI accessible and understandable for everyone
+I'm a passionate **Full-Stack AI Engineer** from Khatauli, India, specializing in building innovative AI-powered applications and seamless web experiences. I love combining cutting-edge AI technology with beautiful, responsive design to create solutions that make a real impact.
+
+Currently building **CODEEX-AI Solutions** and developing intelligent platforms that serve thousands of users worldwide. Always learning, always building! 🔥
+
+---
+
+## 💼 What I Do
+
+### 🤖 AI & Machine Learning
+- **AI Platform Development** - Multi-provider AI orchestration systems
+- **AI Integrations** - Groq, OpenAI, Gemini, Hugging Face, Claude
+- **Large Language Models** - Building intelligent applications with LLMs
+- **AI Education** - Making AI accessible & understandable
 
 ### 💻 Full-Stack Web Development
-- **React & Next.js Applications**: Modern, scalable frontend solutions
-- **TypeScript & Node.js Backend**: Type-safe, robust server-side development
-- **Progressive Web Apps**: Offline-capable, installable web experiences
-- **Firebase Integration**: Real-time databases and authentication
+- **Frontend**: React 18, Next.js, TypeScript, Vite, TailwindCSS
+- **Backend**: Node.js, Express, Firebase, Databases
+- **Full-Stack**: End-to-end application development with modern practices
+- **3D Web**: Three.js, WebGL, interactive experiences
 
-### 🎨 Creative Development
-- **Interactive 3D Experiences**: Custom character animations using Three.js
-- **Smooth Animations**: Professional-grade motion design with GSAP
-- **Responsive Design**: Pixel-perfect experiences across all devices
+### 🎨 Design & Animation
+- **Interactive 3D Graphics** - Custom animations & visual effects
+- **Motion Design** - Smooth animations with GSAP
+- **Responsive UI/UX** - Pixel-perfect across all devices
+- **Performance First** - Optimized for speed & accessibility
 
 ---
 
-## 🌟 Featured Project: This Portfolio
+## 🛠️ Tech Stack
 
-This very portfolio you're viewing is a testament to my skills! Built with modern web technologies, it features:
-
-- **Interactive 3D Character**: A custom-animated character that responds to your mouse movements
-- **Smooth Page Transitions**: Seamless navigation with GSAP-powered animations
-- **Responsive Design**: Looks great on desktop, tablet, and mobile
-- **SEO Optimized**: Built for visibility and performance
-- **Progressive Web App**: Can be installed as a standalone app
-
-### 🛠️ Tech Stack Used
 ```
-Frontend: React 18 + TypeScript
-3D Graphics: Three.js + WebGL
-Animations: GSAP
-Build Tool: Vite
-Styling: Custom CSS + CSS Modules
-Deployment: Vercel
+Languages:      JavaScript, TypeScript, Python
+Frontend:       React, Next.js, Vite, TailwindCSS, GSAP, Three.js
+Backend:        Node.js, Express, Firebase, MongoDB, PostgreSQL
+AI/ML:          LangChain, OpenAI, Groq, Hugging Face, Gemini
+Tools:          Git, Docker, Vercel, Linux, VS Code
 ```
 
 ---
 
-## 📈 My Journey
+## 🌟 Featured Projects
 
-From a curious developer in Khatauli to building AI platforms that serve thousands, my journey has been about pushing boundaries and learning continuously. I believe in:
-
-- **Innovation**: Always exploring new technologies and approaches
-- **Quality**: Delivering pixel-perfect, performant solutions
-- **Education**: Making complex AI concepts accessible to everyone
-- **Community**: Sharing knowledge and helping fellow developers
+- **[Harsh Portfolio](https://github.com/your-username/harsh-portfolio)** - Interactive 3D portfolio with GSAP animations
+- **SOHAM AI Platform** - Multi-provider AI orchestration with 26+ models
+- **CODEEX-AI Solutions** - Custom AI integrations & smart applications
 
 ---
 
-## 🎯 Services I Offer
+## 📊 GitHub Stats
 
-### 🤝 Freelance Services
-- **AI Platform Development**: Custom AI solutions and integrations
-- **Full-Stack Web Applications**: End-to-end web development
-- **PWA Development**: Modern web apps with native app features
-- **Technical Consulting**: AI and web development guidance
-- **Code Reviews**: Improving code quality and performance
+<div align="center">
 
-### 📚 What I Can Help You With
-- Building scalable AI-powered applications
-- Modernizing legacy web applications
-- Implementing complex animations and interactions
-- Optimizing web performance and SEO
-- Setting up CI/CD pipelines for web projects
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
+
+</div>
 
 ---
 
-## 📞 Let's Connect!
+## 🎯 Services & Expertise
 
-I'm always excited to discuss new opportunities and collaborations. Whether you need a stunning portfolio website, an AI-powered platform, or just want to chat about the latest in web development, I'd love to hear from you!
-
-- **🌐 Website**: [heoster.vercel.app](https://heoster.vercel.app)
-- **🐦 Twitter**: [@The_Heoster_](https://twitter.com/The_Heoster_)
-- **💼 LinkedIn**: [Connect with me](https://linkedin.com/in/harsh-heoster)
-- **📧 Email**: codeex@email.com
+✅ **AI Platform Development** - Custom AI solutions & integrations  
+✅ **Full-Stack Web Applications** - Modern, scalable solutions  
+✅ **PWA Development** - Progressive web apps with native features  
+✅ **3D Web Experiences** - Interactive & immersive interfaces  
+✅ **Performance Optimization** - Speed & SEO improvements  
+✅ **Technical Consulting** - Guidance on architecture & best practices  
 
 ---
 
-## 🛠️ For Developers
+## 📚 Currently Learning
 
-If you're interested in the technical side of this portfolio or want to use it as a template:
+- Advanced LLM fine-tuning techniques
+- WebGL optimization for 3D web applications
+- Scalable AI system architecture
 
-### Quick Start
-```bash
-# Clone the repository
-git clone https://github.com/your-username/harsh-portfolio.git
-cd harsh-portfolio-main
+---
+
+## 📫 Let's Connect!
+
+I'm always open to exciting opportunities, collaborations, and discussions about AI, web development, and tech innovation!
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-heoster.vercel.app-blue?style=for-the-badge)](https://heoster.vercel.app)
+[![Twitter](https://img.shields.io/badge/Twitter-@The_Heoster_-1DA1F2?style=for-the-badge)](https://twitter.com/The_Heoster_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harsh%20Heoster-0077B5?style=for-the-badge)](https://linkedin.com/in/harsh-heoster)
+[![Email](https://img.shields.io/badge/Email-codeex%40email.com-D14836?style=for-the-badge)](mailto:codeex@email.com)
+
+</div>
+
+---
+
+## 💡 Quick Facts
+
+- 🔭 Currently working on: AI-powered web applications
+- 🌱 Learning: Advanced AI architectures & Web3 technologies
+- 💬 Ask me about: React, AI integrations, Web development
+- ⚡ Fun fact: I love creating interactive 3D experiences on the web!
+- 🎯 Goal: Build products that solve real problems with AI
+
+---
+
+<div align="center">
+
+### Made with ❤️ by Harsh Heoster
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=your-username.your-username)
+
+</div>
 
 # Install dependencies
 npm install
