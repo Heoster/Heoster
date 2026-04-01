@@ -5,10 +5,16 @@
   border-top: 1px solid rgba(255, 255, 255, 0.1);
 }
 
+.hire-me-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
 .hire-me-container {
   width: 100%;
-  max-width: 800px;
-  margin: 0 auto;
+  max-width: 650px;
 }
 
 .hire-me-header {

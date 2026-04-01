@@ -29,16 +29,17 @@ const HireMe = () => {
   };
 
   return (
-    <section className="hire-me-section section-container" id="hire-me">
-      <div className="hire-me-container">
-        <div className="hire-me-header">
-          <h2>
-            Let's Work <span>Together</span>
-          </h2>
-          <p>Have a project in mind? Let me help bring your ideas to life.</p>
-        </div>
+    <section className="hire-me-section" id="hire-me">
+      <div className="hire-me-wrapper section-container">
+        <div className="hire-me-container">
+          <div className="hire-me-header">
+            <h2>
+              Let's Work <span>Together</span>
+            </h2>
+            <p>Have a project in mind? Let me help bring your ideas to life.</p>
+          </div>
 
-        <form onSubmit={handleSubmit} className="hire-me-form">
+          <form onSubmit={handleSubmit} className="hire-me-form">
           <input
             type="hidden"
             name="access_key"
@@ -106,6 +107,7 @@ const HireMe = () => {
             </p>
           )}
         </form>
+        </div>
       </div>
     </section>
   );
