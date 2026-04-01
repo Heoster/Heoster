@@ -24,6 +24,7 @@ const Contact = () => {
             <a
               href="https://github.com/heoster"
               target="_blank"
+              rel="noopener noreferrer"
               data-cursor="disable"
               className="contact-social"
             >
@@ -32,6 +33,7 @@ const Contact = () => {
             <a
               href="https://www.linkedin.com/in/codeex-heoster"
               target="_blank"
+              rel="noopener noreferrer"
               data-cursor="disable"
               className="contact-social"
             >
@@ -40,6 +42,7 @@ const Contact = () => {
             <a
               href="https://x.com/The_Heoster"
               target="_blank"
+              rel="noopener noreferrer"
               data-cursor="disable"
               className="contact-social"
             >
@@ -48,6 +51,7 @@ const Contact = () => {
             <a
               href="https://www.instagram.com/codeex._.heoster"
               target="_blank"
+              rel="noopener noreferrer"
               data-cursor="disable"
               className="contact-social"
             >

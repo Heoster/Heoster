@@ -4,22 +4,35 @@ import { ScrollTrigger } from "gsap/ScrollTrigger";
 
 const WhatIDo = () => {
   const containerRef = useRef<(HTMLDivElement | null)[]>([]);
+  const listenersRef = useRef<Map<HTMLElement, EventListener>>(new Map());
+
   const setRef = (el: HTMLDivElement | null, index: number) => {
     containerRef.current[index] = el;
   };
+
   useEffect(() => {
     if (ScrollTrigger.isTouch) {
       containerRef.current.forEach((container) => {
         if (container) {
           container.classList.remove("what-noTouch");
-          container.addEventListener("click", () => handleClick(container));
+
+          // Create and store the listener function
+          const listener = () => handleClick(container);
+          listenersRef.current.set(container, listener);
+
+          container.addEventListener("click", listener);
         }
       });
     }
+
     return () => {
       containerRef.current.forEach((container) => {
         if (container) {
-          container.removeEventListener("click", () => handleClick(container));
+          const listener = listenersRef.current.get(container);
+          if (listener) {
+            container.removeEventListener("click", listener);
+            listenersRef.current.delete(container);
+          }
         }
       });
     };
