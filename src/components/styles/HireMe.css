@@ -1,0 +1,208 @@
+.hire-me-section {
+  padding: 80px 0;
+  position: relative;
+  background: linear-gradient(135deg, rgba(10, 14, 23, 0.8) 0%, rgba(20, 28, 45, 0.6) 100%);
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.hire-me-container {
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.hire-me-header {
+  text-align: center;
+  margin-bottom: 60px;
+}
+
+.hire-me-header h2 {
+  font-size: 48px;
+  font-weight: 700;
+  margin-bottom: 16px;
+  background: linear-gradient(135deg, #ffffff 0%, #a0aec0 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  letter-spacing: -1px;
+}
+
+.hire-me-header h2 span {
+  color: #4f46e5;
+}
+
+.hire-me-header p {
+  font-size: 16px;
+  color: #a0aec0;
+  line-height: 1.6;
+}
+
+.hire-me-form {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  background: rgba(255, 255, 255, 0.02);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 12px;
+  padding: 40px;
+  backdrop-filter: blur(10px);
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.form-group label {
+  font-size: 14px;
+  font-weight: 600;
+  color: #e0e7ff;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+}
+
+.form-group input,
+.form-group textarea {
+  padding: 14px 16px;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.04);
+  color: #ffffff;
+  font-size: 16px;
+  font-family: inherit;
+  transition: all 0.3s ease;
+  outline: none;
+}
+
+.form-group input::placeholder,
+.form-group textarea::placeholder {
+  color: rgba(255, 255, 255, 0.4);
+}
+
+.form-group input:focus,
+.form-group textarea:focus {
+  border-color: #4f46e5;
+  background: rgba(79, 70, 229, 0.05);
+  box-shadow: 0 0 0 3px rgba(79, 70, 229, 0.1);
+}
+
+.form-group input:disabled,
+.form-group textarea:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.form-group textarea {
+  resize: vertical;
+  min-height: 140px;
+}
+
+.submit-btn {
+  padding: 14px 32px;
+  border: none;
+  border-radius: 8px;
+  background: linear-gradient(135deg, #4f46e5 0%, #7c3aed 100%);
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  text-transform: uppercase;
+  position: relative;
+  overflow: hidden;
+}
+
+.submit-btn::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(135deg, #7c3aed 0%, #4f46e5 100%);
+  transition: left 0.3s ease;
+  z-index: -1;
+}
+
+.submit-btn:hover:not(:disabled) {
+  transform: translateY(-2px);
+  box-shadow: 0 12px 24px rgba(79, 70, 229, 0.3);
+}
+
+.submit-btn:hover:not(:disabled)::before {
+  left: 0;
+}
+
+.submit-btn:disabled {
+  opacity: 0.7;
+  cursor: not-allowed;
+}
+
+.success-message {
+  color: #10b981;
+  font-size: 14px;
+  text-align: center;
+  animation: slideIn 0.3s ease;
+}
+
+@keyframes slideIn {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .hire-me-section {
+    padding: 60px 0;
+  }
+
+  .hire-me-header h2 {
+    font-size: 32px;
+  }
+
+  .hire-me-header p {
+    font-size: 14px;
+  }
+
+  .hire-me-form {
+    padding: 24px;
+    gap: 16px;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .hire-me-section {
+    padding: 40px 0;
+  }
+
+  .hire-me-header {
+    margin-bottom: 40px;
+  }
+
+  .hire-me-header h2 {
+    font-size: 24px;
+    margin-bottom: 12px;
+  }
+
+  .hire-me-form {
+    padding: 20px;
+  }
+
+  .form-group input,
+  .form-group textarea {
+    padding: 12px 14px;
+    font-size: 16px;
+  }
+
+  .submit-btn {
+    padding: 12px 24px;
+    font-size: 14px;
+  }
+}
