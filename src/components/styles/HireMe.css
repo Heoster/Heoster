@@ -1,8 +1,10 @@
 .hire-me-section {
   padding: 80px 0;
   position: relative;
-  background: linear-gradient(135deg, rgba(10, 14, 23, 0.8) 0%, rgba(20, 28, 45, 0.6) 100%);
-  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  background-color: var(--backgroundColor);
+  border-top: 1px solid #363636;
+  border-bottom: 1px solid #363636;
+  z-index: 2;
 }
 
 .hire-me-wrapper {
@@ -23,18 +25,15 @@
 }
 
 .hire-me-header h2 {
-  font-size: 48px;
-  font-weight: 700;
+  font-size: 70px;
+  font-weight: 500;
   margin-bottom: 16px;
-  background: linear-gradient(135deg, #ffffff 0%, #a0aec0 100%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
+  color: #eae5ec;
   letter-spacing: -1px;
 }
 
 .hire-me-header h2 span {
-  color: #4f46e5;
+  color: var(--accentColor);
 }
 
 .hire-me-header p {
@@ -47,11 +46,11 @@
   display: flex;
   flex-direction: column;
   gap: 24px;
-  background: rgba(255, 255, 255, 0.02);
-  border: 1px solid rgba(255, 255, 255, 0.08);
-  border-radius: 12px;
+  background: transparent;
+  border: 1px solid #363636;
+  border-radius: 0px;
   padding: 40px;
-  backdrop-filter: blur(10px);
+  backdrop-filter: none;
 }
 
 .form-group {
@@ -63,18 +62,19 @@
 .form-group label {
   font-size: 14px;
   font-weight: 600;
-  color: #e0e7ff;
+  color: #eae5ec;
   letter-spacing: 0.5px;
   text-transform: uppercase;
+  opacity: 0.7;
 }
 
 .form-group input,
 .form-group textarea {
   padding: 14px 16px;
-  border: 1px solid rgba(255, 255, 255, 0.12);
-  border-radius: 8px;
-  background: rgba(255, 255, 255, 0.04);
-  color: #ffffff;
+  border: 1px solid #363636;
+  border-radius: 0px;
+  background: transparent;
+  color: #eae5ec;
   font-size: 16px;
   font-family: inherit;
   transition: all 0.3s ease;
@@ -83,14 +83,14 @@
 
 .form-group input::placeholder,
 .form-group textarea::placeholder {
-  color: rgba(255, 255, 255, 0.4);
+  color: #666;
 }
 
 .form-group input:focus,
 .form-group textarea:focus {
-  border-color: #4f46e5;
-  background: rgba(79, 70, 229, 0.05);
-  box-shadow: 0 0 0 3px rgba(79, 70, 229, 0.1);
+  border-color: var(--accentColor);
+  background: rgba(94, 234, 212, 0.03);
+  box-shadow: none;
 }
 
 .form-group input:disabled,
@@ -106,10 +106,10 @@
 
 .submit-btn {
   padding: 14px 32px;
-  border: none;
-  border-radius: 8px;
-  background: linear-gradient(135deg, #4f46e5 0%, #7c3aed 100%);
-  color: #ffffff;
+  border: 1px solid var(--accentColor);
+  border-radius: 0px;
+  background: transparent;
+  color: var(--accentColor);
   font-size: 16px;
   font-weight: 600;
   letter-spacing: 0.5px;
@@ -127,14 +127,15 @@
   left: -100%;
   width: 100%;
   height: 100%;
-  background: linear-gradient(135deg, #7c3aed 0%, #4f46e5 100%);
+  background: var(--accentColor);
   transition: left 0.3s ease;
   z-index: -1;
 }
 
 .submit-btn:hover:not(:disabled) {
-  transform: translateY(-2px);
-  box-shadow: 0 12px 24px rgba(79, 70, 229, 0.3);
+  color: var(--backgroundColor);
+  transform: none;
+  box-shadow: none;
 }
 
 .submit-btn:hover:not(:disabled)::before {
@@ -142,12 +143,12 @@
 }
 
 .submit-btn:disabled {
-  opacity: 0.7;
+  opacity: 0.5;
   cursor: not-allowed;
 }
 
 .success-message {
-  color: #10b981;
+  color: var(--accentColor);
   font-size: 14px;
   text-align: center;
   animation: slideIn 0.3s ease;
@@ -164,13 +165,19 @@
   }
 }
 
+@media only screen and (max-width: 1600px) {
+  .hire-me-header h2 {
+    font-size: 50px;
+  }
+}
+
 @media only screen and (max-width: 900px) {
   .hire-me-section {
     padding: 60px 0;
   }
 
   .hire-me-header h2 {
-    font-size: 32px;
+    font-size: 40px;
   }
 
   .hire-me-header p {
@@ -193,7 +200,7 @@
   }
 
   .hire-me-header h2 {
-    font-size: 24px;
+    font-size: 28px;
     margin-bottom: 12px;
   }
 
