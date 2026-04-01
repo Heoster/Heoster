@@ -49,8 +49,8 @@ const MainContainer = ({ children }: PropsWithChildren) => {
                 <TechStack />
               </Suspense>
             )}
-            <Contact />
             <HireMe />
+            <Contact />
           </div>
         </div>
       </main>
