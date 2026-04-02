@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full-Stack AI Engineer** from Khatauli, India, specializing in building innovative AI-powered applications and seamless web experiences. I love combining cutting-edge AI technology with beautiful, responsive design to create solutions that make a real impact.
+I'm a passionate **Full-Stack Engineer** from Khatauli, India, specializing in building innovative AI-powered applications and seamless web experiences. I love combining cutting-edge AI technology with beautiful, responsive design to create solutions that make a real impact.
 
 Currently building **CODEEX-AI Solutions** and developing intelligent platforms that serve thousands of users worldwide. Always learning, always building! 🔥
 
