@@ -86,15 +86,6 @@ I'm always open to exciting opportunities, collaborations, and discussions about
 
 </div>
 
----
-
-## 💡 Quick Facts
-
-- 🔭 Currently working on: AI-powered web applications
-- 🌱 Learning: Advanced AI architectures & Web3 technologies
-- 💬 Ask me about: React, AI integrations, Web development
-- ⚡ Fun fact: I love creating interactive 3D experiences on the web!
-- 🎯 Goal: Build products that solve real problems with AI
 
 ---
 *Built with ❤️ in Khatauli, India*  
