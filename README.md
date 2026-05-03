@@ -55,7 +55,7 @@ Tools:          Git, Docker, Vercel, Linux, VS Code
 
 ## 🌟 Featured Projects
 
-- **[Harsh Portfolio](https://heoster.vercel.app)** - Interactive 3D portfolio with GSAP animations
+- **[MY Portfolio](https://heoster.vercel.app)** - Interactive 3D portfolio with GSAP animations
 - **SOHAM AI Platform** - Multi-provider AI orchestration with 26+ models
 - **CODEEX-AI Solutions** - Custom AI integrations & smart applications
 
