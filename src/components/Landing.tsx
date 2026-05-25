@@ -11,7 +11,7 @@ const Landing = ({ children }: PropsWithChildren) => {
             <h1>
               Harsh
             </h1>
-            <p className="landing-subtitle">Founder of CODEEX-AI, Full-stack Developer</p>
+            <p className="landing-subtitle">Web Dev in Muzaffarnagar | Website Developer in Khatauli</p>
           </div>
           <div className="landing-info">
             <h3>A Full Stack</h3>

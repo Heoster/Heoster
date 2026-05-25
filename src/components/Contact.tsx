@@ -15,8 +15,8 @@ const Contact = () => {
               </a>
             </p>
             <h4>HEOSTER</h4>
-            <p>Founder & Lead Developer at CODEEX-AI.<br />
-             Expert in Full-Stack AI, React/Next.js, and multi-provider orchestration. </p>
+            <p>Website developer in Khatauli with a legacy in full stack development.<br />
+             Your trusted web dev in Muzaffarnagar for React, Next.js, and modern web solutions.</p>
          
           </div>
           <div className="contact-box">

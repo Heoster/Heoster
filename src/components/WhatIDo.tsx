@@ -103,8 +103,8 @@ const WhatIDo = () => {
               <h3>FRONTEND</h3>
               <h4>Building Interactive UIs</h4>
               <p>
-                Crafting performant, responsive interfaces with modern frameworks.
-                From SPAs to micro-frontends, I deliver pixel-perfect experiences.
+                As a professional website developer in Khatauli, I craft performant, responsive interfaces 
+                with modern frameworks. From SPAs to micro-frontends, I deliver pixel-perfect experiences.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
@@ -142,8 +142,8 @@ const WhatIDo = () => {
               <h3>BACKEND</h3>
               <h4>Scalable Server Architecture</h4>
               <p>
-                Designing robust APIs and microservices. From CMS platforms to
-                complex business logic, I build backends that scale.
+                Offering expert web dev in Muzaffarnagar with robust APIs and microservices. From CMS platforms to
+                complex business logic, I build backends that scale for businesses across Uttar Pradesh.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
