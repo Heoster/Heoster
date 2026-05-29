@@ -45,10 +45,10 @@ Currently building **CODEEX-AI Solutions** and developing intelligent platforms 
 
 ```
 Languages:      JavaScript, TypeScript, Python
-Frontend:       React, Next.js, Vite, TailwindCSS, GSAP, Three.js
+Frontend:       React, Next.js, Vite, TailwindCSS, GSAP
 Backend:        Node.js, Express, Firebase, MongoDB, PostgreSQL
-AI/ML:          LangChain, OpenAI, Groq, Hugging Face, Gemini
-Tools:          Git, Docker, Vercel, Linux, VS Code
+AI/ML:          LangChain, OpenAI, Groq, Hugging Face, Gemini, Groq, Cerebras
+Tools:          Git, Docker, Vercel, Linux, VS Code, Codeex
 ```
 
 ---
