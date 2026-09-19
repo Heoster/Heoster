@@ -216,7 +216,7 @@ I'm always open to exciting opportunities, collaborations, and discussions about
 - **GitHub:** [github.com/Heoster](https://github.com/Heoster)
 - **X (Twitter):** [@The_Heoster_](https://x.com/The_Heoster_)
 - **Instagram:** [@codeex._.heoster](https://www.instagram.com/codeex._.heoster)
-- **LinkedIn:** [linkedin.com/in/harsh-heoster](https://linkedin.com/in/codeex-heoster)
+- **LinkedIn:** [linkedin.com/in/codeex-heoster](https://linkedin.com/in/codeex-heoster)
 - **Portfolio:** [heoster.vercel.app](https://heoster.vercel.app)
 - **CODEEX-AI:** [codeex-ai.vercel.app](https://codeex-ai.vercel.app)
 - **Email:** [codeex@email.com](mailto:codeex@email.com)
