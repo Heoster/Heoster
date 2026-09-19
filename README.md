@@ -155,19 +155,27 @@ Tools:          Git, Docker, Linux, VS Code, Vercel, Netlify, Codex
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heoster&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
+<br>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Heoster&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
+
+<br>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Heoster&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </div>
 
+<br>
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Heoster&theme=tokyonight&no-frame=true&column=7&margin-w=15" alt="Trophies" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-db03d680-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8B5CF6&height=120&section=footer" width="100%" alt="Divider" />
 
 ## 📫 Let's Connect
 
