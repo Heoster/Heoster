@@ -85,7 +85,9 @@ I'm always open to exciting opportunities, collaborations, and discussions about
 [![Email](https://img.shields.io/badge/Email-codeex%40email.com-D14836?style=for-the-badge)](mailto:codeex@email.com)
 
 </div>
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Heoster&theme=dark&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 *Built with ❤️ in Khatauli, India*  
