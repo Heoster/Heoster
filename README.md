@@ -151,8 +151,8 @@ Tools:          Git, Docker, Linux, VS Code, Vercel, Netlify, Codex
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Heoster&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=1A1225,2A1838&title_color=FF9EC8&icon_color=C4A7E7&text_color=FDE8F0&ring_color=FFB6C1&cache_seconds=86400" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Heoster&layout=compact&hide_border=true&langs_count=8&bg_color=1A1225,2A1838&title_color=FF9EC8&text_color=FDE8F0&cache_seconds=86400" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Heoster&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=FFFFFF&title_color=000000&icon_color=000000&text_color=000000&ring_color=000000&cache_seconds=86400" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Heoster&layout=compact&hide_border=true&langs_count=8&bg_color=FFFFFF&title_color=000000&text_color=000000&cache_seconds=86400" height="165" alt="Top Languages" />
 </div>
 
 <br/>
