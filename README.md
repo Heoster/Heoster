@@ -148,11 +148,11 @@ Tools:          Git, Docker, Linux, VS Code, Vercel, Netlify, Codex
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-db03d680-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 GitHub Analytics
+### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Heoster&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heoster&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Heoster&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Heoster&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 <br>
@@ -177,6 +177,10 @@ Tools:          Git, Docker, Linux, VS Code, Vercel, Netlify, Codex
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8B5CF6&height=120&section=footer" width="100%" alt="Divider" />
 
+---
+
+<div align="center">
+  
 ## 📫 Let's Connect
 
 I'm always open to exciting opportunities, collaborations, and discussions about **AI, web development, and tech innovation**.
