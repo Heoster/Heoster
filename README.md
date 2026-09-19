@@ -8,9 +8,11 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/The_Heoster_?style=social)](https://twitter.com/The_Heoster_)
 
 </div>
-
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Engineer;AI+%26+ML+Developer;Building+CODEEX-AI;3D+Web+Enthusiast" alt="Typing SVG" />
+</div>
 ---
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db03d680-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 ## 🚀 About Me
  
 I'm a passionate **Full-Stack Engineer** from Khatauli, India, specializing in building innovative AI-powered applications and seamless web experiences. I love combining cutting-edge AI technology with beautiful, responsive design to create solutions that make a real impact.
@@ -18,7 +20,7 @@ I'm a passionate **Full-Stack Engineer** from Khatauli, India, specializing in b
 Currently building **CODEEX-AI** and developing intelligent platforms that serve thousands of users worldwide. Always learning, always building! 🔥
 
 ---
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db03d680-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 ## 💼 What I Do
 
 ### 🤖 AI & Machine Learning
@@ -40,7 +42,7 @@ Currently building **CODEEX-AI** and developing intelligent platforms that serve
 - **Performance First** - Optimized for speed & accessibility
 
 ---
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db03d680-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 ## 🛠️ Tech SKILLS 
 
 ```
@@ -56,7 +58,7 @@ Tools:          Git, Docker, Vercel, Linux, VS Code, Codeex
   </a>
 </p>
 ---
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db03d680-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 ## 🌟 Featured Projects
 
 - **[MY Portfolio](https://heoster.vercel.app)** - Interactive 3D portfolio with GSAP animations
@@ -80,7 +82,7 @@ Tools:          Git, Docker, Vercel, Linux, VS Code, Codeex
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Heoster&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db03d680-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 ## 📫 Let's Connect!
 
 I'm always open to exciting opportunities, collaborations, and discussions about AI, web development, and tech innovation!
@@ -94,7 +96,7 @@ I'm always open to exciting opportunities, collaborations, and discussions about
 
 </div>
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db03d680-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 ---
 *Built with ❤️ in Khatauli, India*  
 *Last updated: April 2026*
