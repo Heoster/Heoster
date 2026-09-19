@@ -13,7 +13,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/The_Heoster_?style=social)](https://twitter.com/The_Heoster_)
 [![Profile Views](https://komarev.com/ghpvc/?username=Heoster&color=36BCF7&style=flat-square&label=Profile+Views)](https://github.com/Heoster)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Harsh+Saini;Full-Stack+Engineer+%26+AI+Builder;Founder+of+CODEEX-AI;16+yo+from+Khatauli%2C+India;Building+open+AI+for+everyone;React+%7C+Next.js+%7C+TypeScript+%7C+LLMs;Available+Freelancing";HEOSTER; alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Harsh+Saini;Full-Stack+Engineer+%26+AI+Builder;Founder+of+CODEEX-AI;16+yo+from+Khatauli%2C+India;Building+open+AI+for+everyone;React+%7C+Next.js+%7C+TypeScript+%7C+LLMs;Available+Freelancing" alt="Typing SVG" />
 
 </div>
 
