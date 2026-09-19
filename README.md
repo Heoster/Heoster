@@ -151,46 +151,46 @@ Tools:          Git, Docker, Linux, VS Code, Vercel, Netlify, Codex
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Heoster&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0D1117&title_color=36BCF7&icon_color=8B5CF6&text_color=E6EDF3&ring_color=36BCF7&cache_seconds=86400" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Heoster&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=36BCF7&text_color=E6EDF3&cache_seconds=86400" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Heoster&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=1A1225,2A1838&title_color=FF9EC8&icon_color=C4A7E7&text_color=FDE8F0&ring_color=FFB6C1&cache_seconds=86400" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Heoster&layout=compact&hide_border=true&langs_count=8&bg_color=1A1225,2A1838&title_color=FF9EC8&text_color=FDE8F0&cache_seconds=86400" height="165" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Heoster&hide_border=true&locale=en&date_format=M%20j%5B%2C%20Y%5D&card_width=495&mode=daily&background=0D1117&ring=36BCF7&fire=8B5CF6&currStreakNum=36BCF7&sideNums=8B5CF6&currStreakLabel=36BCF7&sideLabels=A78BFA&dates=8B9CB3&stroke=36BCF7" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Heoster&hide_border=true&locale=en&date_format=M%20j%5B%2C%20Y%5D&card_width=495&mode=daily&background=1A1225&ring=FF9EC8&fire=F6C177&currStreakNum=FF9EC8&sideNums=C4A7E7&currStreakLabel=FFB6C1&sideLabels=E8B4D4&dates=A78B9B&stroke=FF9EC8" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Heoster&theme=github_dark" alt="Profile details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Heoster&theme=radical" alt="Profile details" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Heoster&theme=github_dark" alt="Extra stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Heoster&theme=github_dark&utcOffset=5.5" alt="Productive time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Heoster&theme=radical" alt="Extra stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Heoster&theme=radical&utcOffset=5.5" alt="Productive time" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Heoster&theme=github_dark" alt="Repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Heoster&theme=github_dark" alt="Most commit language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Heoster&theme=radical" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Heoster&theme=radical" alt="Most commit language" />
 </div>
 
 <br/>
 
 <div align="center">
   <h3>📅 Contribution Graph</h3>
-  <img src="https://ghchart.rshah.org/36BCF7/Heoster" width="100%" alt="GitHub contribution chart" />
+  <img src="https://ghchart.rshah.org/FF9EC8/Heoster" width="100%" alt="GitHub contribution chart" />
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8B5CF6&height=120&section=footer" width="100%" alt="Divider" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9EC8,50:E8B4D4,100:C4A7E7&height=120&section=footer" width="100%" alt="Divider" />
 
 
 ## 📫 Let's Connect
