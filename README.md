@@ -1,3 +1,4 @@
+
 # 👋 Hi, I'm Heoster
 
 <div align="center">
@@ -77,43 +78,13 @@ Always learning. Always building. 🔥
 ### 🛠️ Backend, Storage & Tools
 - LocalStorage-first architectures
 - MongoDB, PostgreSQL, cloud storage
-- Git, Docker, Linux, VS Code, Codex
+- Git, Docker, Linux, VS Code, Codeex
 - Auth: JWT, OAuth, session management
 - SEO: JSON-LD, OpenGraph, sitemaps
 
 </td>
 </tr>
 </table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-db03d680-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## ✨ Motion, 3D & Interactive Craft
-
-I take GitHub profile READMEs and portfolios to the next level with **interactive, performant visual animations** — built around full-stack, 3D, and AI. Live implementations live on **[heoster.vercel.app](https://heoster.vercel.app)** (Three.js + GSAP). This README uses typing SVGs, waving banners, and GIFs because GitHub Markdown cannot run WebGL.
-
-### 🌌 3D & Hero Visuals (Three.js & WebGL)
-
-- **Interactive Particle Constellation / AI Brain Mesh** — 3D particle field in the hero that reacts to cursor movement and clicks, simulating interconnected neural networks
-- **Floating 3D Tech Stack Nodes** — React, Next.js, Node.js, and AI-model geometry that rotates in 3D with hover tilt
-- **Dynamic Holographic Shader Card** — custom WebGL fragment shader on the profile card / banner: holographic sheen that follows the mouse
-
-### 📜 Scroll & Layout Animations (GSAP & ScrollTrigger)
-
-- **Pin & Reveal Timeline** — Featured Projects on a vertical scroll: each card pins, scales in, and reveals architecture details
-- **Text Reveal & Kinetic Typography** — headings split word-by-word or character-by-character as sections enter the viewport
-- **Custom Magnetic & Liquid Cursor** — cursor magnetizes to buttons and project links with a soft liquid trail
-
-### 📡 Interactive & Data Visualizations
-
-- **Live System Architecture Diagrams** — animated SVG/Canvas of the AI auto-router: query in → intent detection → model routing → response synthesis, with pulsing paths
-- **Interactive Terminal / Code Runner Preview** — simulated terminal with typing effects, CLI/API snippets, and live-feeling commands
-
-```text
-$ soham route --query "explain transformers"
-→ intent: explain
-→ router: Groq · Llama · streaming
-→ tts: Orpheus | search: live | pdf: ready
-```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-db03d680-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -130,7 +101,7 @@ Tools:          Git, Docker, Linux, VS Code, Vercel, Netlify, Codex
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vite,tailwind,nodejs,express,mongodb,postgres,firebase,python,docker,git,linux,vscode,vercel,threejs&theme=dark" alt="Tech skills" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vite,tailwind,nodejs,express,mongodb,postgres,firebase,python,docker,git,linux,vscode,vercel,threejs&theme=dark" />
   </a>
 </p>
 
@@ -220,6 +191,7 @@ Tools:          Git, Docker, Linux, VS Code, Vercel, Netlify, Codex
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9EC8,50:E8B4D4,100:C4A7E7&height=120&section=footer" width="100%" alt="Divider" />
+
 
 ## 📫 Let's Connect
 
