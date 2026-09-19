@@ -151,47 +151,31 @@ Tools:          Git, Docker, Linux, VS Code, Vercel, Netlify, Codex
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <!-- Core Overview & Top Languages (Side-by-Side Balanced Cards) -->
-  <a href="https://github.com/Heoster">
-    <img height="175" src="https://github-readme-stats.vercel.app/api?username=Heoster&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;border_radius=8&amp;cache_seconds=86400" alt="GitHub Overall Stats" />
-  </a>
-  <a href="https://github.com/Heoster">
-    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heoster&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8&amp;border_radius=8&amp;cache_seconds=86400" alt="Top Languages Used" />
-  </a>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Heoster&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0D1117&title_color=36BCF7&icon_color=8B5CF6&text_color=E6EDF3&ring_color=36BCF7&cache_seconds=86400" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Heoster&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=36BCF7&text_color=E6EDF3&cache_seconds=86400" height="165" alt="Top Languages" />
 </div>
 
-<br />
+<br/>
 
 <div align="center">
-  <!-- Working Live Streak Counter (Updated from broken Heroku endpoint) -->
-  <a href="https://github.com/Heoster">
-    <img src="https://streak-stats.demolab.com/?user=Heoster&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=8&amp;card_width=495&amp;cache_seconds=86400" alt="GitHub Contribution Streak" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=Heoster&hide_border=true&locale=en&date_format=M%20j%5B%2C%20Y%5D&card_width=495&mode=daily&background=0D1117&ring=36BCF7&fire=8B5CF6&currStreakNum=36BCF7&sideNums=8B5CF6&currStreakLabel=36BCF7&sideLabels=A78BFA&dates=8B9CB3&stroke=36BCF7" alt="GitHub Streak" />
 </div>
 
-<br />
+<br/>
 
 <div align="center">
-  <!-- Interactive Dynamic Contribution Timeline Curve -->
-  <a href="https://github.com/Heoster">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Heoster&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true&amp;color=36BCF7&amp;line=8B5CF6&amp;point=36BCF7&amp;bg_color=0D1117" width="95%" alt="Activity Graph" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Heoster&bg_color=0D1117&color=36BCF7&line=8B5CF6&point=22D3EE&area_color=8B5CF6&area=true&hide_border=true&custom_title=Heoster%20Contribution%20Graph&radius=16" width="100%" alt="Activity Graph" />
 </div>
 
-<br />
+<br/>
 
 <div align="center">
-  <!-- Earned Achievements & Trophies -->
-  <a href="https://github.com/Heoster">
-    <img src="https://github-profile-trophy.vercel.app/?username=Heoster&amp;theme=tokyonight&amp;no-frame=true&amp;column=7&amp;margin-w=10&amp;margin-h=10" alt="GitHub Achievements & Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Heoster&theme=radical&no-frame=true&no-bg=false&column=7&margin-w=12&margin-h=12&row=1" alt="GitHub Trophies" />
 </div>
 
-<br />
+<br/>
 
-<!-- Gradient Wave Footer Divider -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:36BCF7,100:8B5CF6&amp;height=120&amp;section=footer" width="100%" alt="Footer Wave Divider" />
-  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8B5CF6&height=120&section=footer" width="100%" alt="Divider" />
 ## 📫 Let's Connect
 
 I'm always open to exciting opportunities, collaborations, and discussions about **AI, web development, and tech innovation**.
