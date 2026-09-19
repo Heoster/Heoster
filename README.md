@@ -164,18 +164,35 @@ Tools:          Git, Docker, Linux, VS Code, Vercel, Netlify, Codex
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Heoster&bg_color=0D1117&color=36BCF7&line=8B5CF6&point=22D3EE&area_color=8B5CF6&area=true&hide_border=true&custom_title=Heoster%20Contribution%20Graph&radius=16" width="100%" alt="Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Heoster&theme=github_dark" alt="Profile details" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Heoster&theme=radical&no-frame=true&no-bg=false&column=7&margin-w=12&margin-h=12&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Heoster&theme=github_dark" alt="Extra stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Heoster&theme=github_dark&utcOffset=5.5" alt="Productive time" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Heoster&theme=github_dark" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Heoster&theme=github_dark" alt="Most commit language" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>📅 Contribution Graph</h3>
+  <img src="https://ghchart.rshah.org/36BCF7/Heoster" width="100%" alt="GitHub contribution chart" />
 </div>
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8B5CF6&height=120&section=footer" width="100%" alt="Divider" />
+
+
 ## 📫 Let's Connect
 
 I'm always open to exciting opportunities, collaborations, and discussions about **AI, web development, and tech innovation**.
