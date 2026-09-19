@@ -13,7 +13,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/The_Heoster_?style=social)](https://twitter.com/The_Heoster_)
 [![Profile Views](https://komarev.com/ghpvc/?username=Heoster&color=36BCF7&style=flat-square&label=Profile+Views)](https://github.com/Heoster)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Harsh+Saini+(Heoster);Full-Stack+Engineer+%26+AI+Builder;Founder+of+CODEEX-AI;16+yo+from+Khatauli%2C+India;Building+open+AI+for+everyone;React+%7C+Next.js+%7C+TypeScript+%7C+LLMs;3D+Web+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Harsh+Saini;Full-Stack+Engineer+%26+AI+Builder;Founder+of+CODEEX-AI;16+yo+from+Khatauli%2C+India;Building+open+AI+for+everyone;React+%7C+Next.js+%7C+TypeScript+%7C+LLMs;Available+Freelancing";HEOSTER; alt="Typing SVG" />
 
 </div>
 
@@ -205,7 +205,7 @@ I'm always open to exciting opportunities, collaborations, and discussions about
 
 [![Twitter](https://img.shields.io/badge/X-@The_Heoster_-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/The_Heoster_)
 [![Instagram](https://img.shields.io/badge/Instagram-@codeex._.heoster-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codeex._.heoster)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harsh%20Heoster-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/codeex-heoster)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Codeex%20Heoster-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/codeex-heoster)
 [![GitHub](https://img.shields.io/badge/GitHub-Heoster-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Heoster)
 [![Email](https://img.shields.io/badge/Email-codeex@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codeex@email.com)
 
