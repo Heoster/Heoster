@@ -148,7 +148,44 @@ Tools:          Git, Docker, Linux, VS Code, Vercel, Netlify, Codex
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-db03d680-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 📊 GitHub Analytics
+Looking at your live page, both the **Activity Graph** and **Trophies** links are failing because GitHub is attempting to render Markdown link text as plain images rather than loading valid images.
+
+Here is how to fix both components in your [`README.md`](https://github.com/Heoster/Heoster/blob/main/README.md?utm_source=gemini).
+
+---
+
+### 1. Activity Graph Fix
+
+Your current code uses standard link syntax instead of an `<img>` embed. Replace it with:
+
+```html
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Heoster&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+</div>
+
+```
+
+---
+
+### 2. Trophies Fix
+
+The profile trophy service requires an image tag with direct URL query parameters. Replace it with:
+
+```html
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Heoster&theme=tokyonight&no-frame=true&column=7&margin-w=15" alt="Trophies" />
+</div>
+
+```
+
+---
+
+### Updated Full Analytics Block
+
+To fix the entire section at once, replace your current `## 📊 GitHub Analytics` section with this complete snippet:
+
+```markdown
+## 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Heoster&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -177,9 +214,7 @@ Tools:          Git, Docker, Linux, VS Code, Vercel, Netlify, Codex
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8B5CF6&height=120&section=footer" width="100%" alt="Divider" />
 
----
-
-<div align="center">
+```
   
 ## 📫 Let's Connect
 
