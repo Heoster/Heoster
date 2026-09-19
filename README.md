@@ -151,31 +151,46 @@ Tools:          Git, Docker, Linux, VS Code, Vercel, Netlify, Codex
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Heoster&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=86400" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Heoster&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide_title=false&cache_seconds=86400" height="165" alt="Top Languages" />
+  <!-- Core Overview & Top Languages (Side-by-Side Balanced Cards) -->
+  <a href="https://github.com/Heoster">
+    <img height="175" src="https://github-readme-stats.vercel.app/api?username=Heoster&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;border_radius=8&amp;cache_seconds=86400" alt="GitHub Overall Stats" />
+  </a>
+  <a href="https://github.com/Heoster">
+    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heoster&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8&amp;border_radius=8&amp;cache_seconds=86400" alt="Top Languages Used" />
+  </a>
 </div>
 
-<br/>
+<br />
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Heoster&theme=tokyonight&hide_border=true&locale=en&date_format=M%20j%5B%2C%20Y%5D&card_width=495&mode=daily" alt="GitHub Streak" />
+  <!-- Working Live Streak Counter (Updated from broken Heroku endpoint) -->
+  <a href="https://github.com/Heoster">
+    <img src="https://streak-stats.demolab.com/?user=Heoster&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=8&amp;card_width=495&amp;cache_seconds=86400" alt="GitHub Contribution Streak" />
+  </a>
 </div>
 
-<br/>
+<br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Heoster&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=36BCF7&area=true&hide_border=true&custom_title=Contribution%20Graph&radius=16" width="100%" alt="Activity Graph" />
+  <!-- Interactive Dynamic Contribution Timeline Curve -->
+  <a href="https://github.com/Heoster">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Heoster&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true&amp;color=36BCF7&amp;line=8B5CF6&amp;point=36BCF7&amp;bg_color=0D1117" width="95%" alt="Activity Graph" />
+  </a>
 </div>
 
-<br/>
+<br />
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Heoster&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=12&margin-h=12&row=1" alt="GitHub Trophies" />
+  <!-- Earned Achievements & Trophies -->
+  <a href="https://github.com/Heoster">
+    <img src="https://github-profile-trophy.vercel.app/?username=Heoster&amp;theme=tokyonight&amp;no-frame=true&amp;column=7&amp;margin-w=10&amp;margin-h=10" alt="GitHub Achievements & Trophies" />
+  </a>
 </div>
 
-<br/>
+<br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8B5CF6&height=120&section=footer" width="100%" alt="Divider" />
+<!-- Gradient Wave Footer Divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:36BCF7,100:8B5CF6&amp;height=120&amp;section=footer" width="100%" alt="Footer Wave Divider" />
   
 ## 📫 Let's Connect
 
@@ -215,7 +230,7 @@ I'm always open to exciting opportunities, collaborations, and discussions about
 
 **Built with ❤️ in Khatauli, India**  
 *Harsh Saini · Heoster · Founder, CODEEX-AI*  
-*Last updated: April 2026*
+*Last updated: September 2026*
 
 ⭐ From [Heoster](https://github.com/Heoster)
 
