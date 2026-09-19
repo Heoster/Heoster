@@ -50,7 +50,11 @@ Backend:        Node.js, Express, Firebase, MongoDB, PostgreSQL
 AI/ML:          LangChain, OpenAI, Groq, Hugging Face, Gemini, Groq, Cerebras
 Tools:          Git, Docker, Vercel, Linux, VS Code, Codeex
 ```
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgres,python,docker,git,vscode&theme=dark" />
+  </a>
+</p>
 ---
 
 ## 🌟 Featured Projects
@@ -73,6 +77,10 @@ Tools:          Git, Docker, Vercel, Linux, VS Code, Codeex
 
 ---
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Heoster&theme=dark&hide_border=true" alt="GitHub Streak" />
+</div>
+
 ## 📫 Let's Connect!
 
 I'm always open to exciting opportunities, collaborations, and discussions about AI, web development, and tech innovation!
@@ -85,9 +93,7 @@ I'm always open to exciting opportunities, collaborations, and discussions about
 [![Email](https://img.shields.io/badge/Email-codeex%40email.com-D14836?style=for-the-badge)](mailto:codeex@email.com)
 
 </div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Heoster&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
+
 
 ---
 *Built with ❤️ in Khatauli, India*  
