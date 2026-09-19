@@ -4,7 +4,7 @@
 
 **Full-Stack Engineer | Founder of CODEEX-AI | Building the Future with AI & Web Technologies**
 
-[![GitHub Followers](https://img.shields.io/github/followers/your-username?style=social)](https://github.com/Heoster)
+[![GitHub Followers](https://img.shields.io/github/followers/Heoster?style=social)](https://github.com/Heoster)
 [![Twitter Follow](https://img.shields.io/twitter/follow/The_Heoster_?style=social)](https://twitter.com/The_Heoster_)
 
 </div>
