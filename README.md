@@ -96,7 +96,7 @@ Frontend:       React 18, Next.js 14+, Vite, TailwindCSS, GSAP, Three.js
 Backend:        Node.js, Express, Firebase, MongoDB, PostgreSQL
 AI / ML:        LangChain, OpenAI, Groq, Gemini, Claude, Hugging Face,
                 Cerebras, DeepSeek, OpenRouter, Whisper, FLUX
-Tools:          Git, Docker, Linux, VS Code, Vercel, Netlify, Codeex
+Tools:          Git, Docker, Linux, VS Code, Vercel, Netlify, Codex
 ```
 
 <p align="center">
