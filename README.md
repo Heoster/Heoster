@@ -205,7 +205,7 @@ I'm always open to exciting opportunities, collaborations, and discussions about
 
 [![Twitter](https://img.shields.io/badge/X-@The_Heoster_-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/The_Heoster_)
 [![Instagram](https://img.shields.io/badge/Instagram-@codeex._.heoster-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codeex._.heoster)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harsh%20Heoster-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-heoster)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harsh%20Heoster-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/codeex-heoster)
 [![GitHub](https://img.shields.io/badge/GitHub-Heoster-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Heoster)
 [![Email](https://img.shields.io/badge/Email-codeex@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codeex@email.com)
 
@@ -216,7 +216,7 @@ I'm always open to exciting opportunities, collaborations, and discussions about
 - **GitHub:** [github.com/Heoster](https://github.com/Heoster)
 - **X (Twitter):** [@The_Heoster_](https://x.com/The_Heoster_)
 - **Instagram:** [@codeex._.heoster](https://www.instagram.com/codeex._.heoster)
-- **LinkedIn:** [linkedin.com/in/harsh-heoster](https://linkedin.com/in/harsh-heoster)
+- **LinkedIn:** [linkedin.com/in/harsh-heoster](https://linkedin.com/in/codeex-heoster)
 - **Portfolio:** [heoster.vercel.app](https://heoster.vercel.app)
 - **CODEEX-AI:** [codeex-ai.vercel.app](https://codeex-ai.vercel.app)
 - **Email:** [codeex@email.com](mailto:codeex@email.com)
