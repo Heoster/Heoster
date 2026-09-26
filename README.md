@@ -111,7 +111,7 @@ Tools:          Git, Docker, Linux, VS Code, Vercel, Netlify, Codex
 
 | Project | Description | Links |
 |:---|:---|:---|
-| **[MY Portfolio](https://heoster.vercel.app)** | Interactive 3D portfolio with GSAP animations and dynamic web graphics | [Live](https://heoster.vercel.app) |
+| **[MY Portfolio](https://heoster.vercel.app)** | Interactive portfolio with animations and dynamic web graphics | [Live](https://heoster.vercel.app) |
 | **[SOHAM](https://soham-ai.vercel.app)** | Free AI platform aggregating **35+ models** across top providers. Intent-detecting auto-router classifying queries into 13 types, live web search, PDF analysis, and voice synthesis | [Live](https://soham-ai.vercel.app) |
 | **[CODEEX-AI](https://codeex-ai.vercel.app)** | Conversational intelligence platform — smart AI routing, visual problem solving, slash commands, multi-chat management | [Live](https://codeex-ai.vercel.app) |
 | **[CloudStore](https://cloudstores.netlify.app)** | Full-featured cloud storage web app to manage, organize, and preview files, scripts, and documents online | [Live](https://cloudstores.netlify.app) |
