@@ -47,7 +47,7 @@ const Career = () => {
               <h3>2024</h3>
             </div>
             <p>
-              Master javascript and start working on project. Start Codeex AI.
+              In 2024, I strengthened my JavaScript skills, began building projects, and started CODEEX-AI.
             </p>
           </div>
           <div className="career-info-box">
