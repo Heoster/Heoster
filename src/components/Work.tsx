@@ -7,13 +7,13 @@ const projects = [
   {
     title: "CODEEX-AI",
     category: "AI chat platform",
-    tools: "Angular, Next.js, NestJS, Firebase",
+    tools: "Next.js, Firebase, ShadCN",
     image: "/images/Solidx.png",
   },
   {
     title: "CODEEX-FOCUS",
     category: "Time Management App",
-    tools: "Angular, Next.js, NestJS, Firebase",
+    tools: "Next.js, Firebase, ShadCN",
     image: "/images/radix.png",
   }
 
