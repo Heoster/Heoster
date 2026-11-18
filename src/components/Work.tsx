@@ -9,24 +9,27 @@ const projects = [
     category: "AI chat platform",
     tools: "Next.js, Firebase, ShadCN",
     image: "/images/Solidx.png",
+    link: "https://codeex-ai.vercel.app",
   },
   {
     title: "CODEEX-FOCUS",
     category: "Time Management App",
     tools: "Next.js, Firebase, ShadCN",
     image: "/images/radix.png",
+    link: "https://github.com/Heoster/codeex-focus",
   },
   {
     title: "ClassBoard",
     category: "Open-source smartboard and PDF annotator",
     tools: "Next.js 15, React 19, TypeScript, PDF.js, pdf-lib, Supabase RLS, QR upload, Capacitor",
     image: "/images/classboard-project.png",
+    link: "https://codeex-studio.vercel.app",
   },
   {
     title: "Sri Shakumbhari Devi Mandir Portal",
     category: "Community transparency and donor seva portal",
     tools: "Live donor seva pages, community transparency, PDF exports",
-    image: "/images/mandir-portal-project.png",
+    image: "/images/placeholder.webp",
     link: "https://mandir-portal.vercel.app",
   },
 
