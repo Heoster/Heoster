@@ -15,7 +15,20 @@ const projects = [
     category: "Time Management App",
     tools: "Next.js, Firebase, ShadCN",
     image: "/images/radix.png",
-  }
+  },
+  {
+    title: "ClassBoard",
+    category: "Open-source smartboard and PDF annotator",
+    tools: "Next.js 15, React 19, TypeScript, PDF.js, pdf-lib, Supabase RLS, QR upload, Capacitor",
+    image: "/images/classboard-project.png",
+  },
+  {
+    title: "Sri Shakumbhari Devi Mandir Portal",
+    category: "Community transparency and donor seva portal",
+    tools: "Live donor seva pages, community transparency, PDF exports",
+    image: "/images/mandir-portal-project.png",
+    link: "https://mandir-portal.vercel.app",
+  },
 
 ];
 
